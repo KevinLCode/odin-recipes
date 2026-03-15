@@ -5,23 +5,32 @@
 }
 
 html{
-    background-color:#fffffd;
+    background-color:#fffef4;
+}
+
+.titles{
+
 }
 
 .title{
-    font-size: 36px;
+    font-size: 46px;
     color: #dab71d
 }
 
 .subtitle{
     font-size: 28px;
-    color: #a3880d
+    color: #c29723
+}
+
+img{
+    border-radius: 30px;
 }
 
 li{
     display: inline-block;
-    background-color: #fd0;
+    background-color: #ffd900;
     margin: 20px;
-    width: 200px;
-    height: 100px;
+    border-radius: 30px;
+    padding: 7px;
+    box-shadow: 0 2px 0 3px #c29723;
 }
