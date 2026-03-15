@@ -8,10 +8,6 @@ html{
     background-color:#fffef4;
 }
 
-.titles{
-
-}
-
 .title{
     font-size: 46px;
     color: #dab71d
@@ -22,10 +18,6 @@ html{
     color: #c29723
 }
 
-img{
-    border-radius: 30px;
-}
-
 li{
     display: inline-block;
     background-color: #ffd900;
@@ -33,4 +25,19 @@ li{
     border-radius: 30px;
     padding: 7px;
     box-shadow: 0 2px 0 3px #c29723;
+}
+
+img{
+    border-radius: 30px;
+}
+
+a{
+
+    text-decoration: none;
+}
+
+.recipe-names{
+    font-weight: bold;
+    color: #530;
+    display: block;
 }
