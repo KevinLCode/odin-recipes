@@ -1,4 +1,27 @@
 *{
     box-sizing: border-box;
     font-family: Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+html{
+    background-color:#fffffd;
+}
+
+.title{
+    font-size: 36px;
+    color: #dab71d
+}
+
+.subtitle{
+    font-size: 28px;
+    color: #a3880d
+}
+
+li{
+    display: inline-block;
+    background-color: #fd0;
+    margin: 20px;
+    width: 200px;
+    height: 100px;
 }
