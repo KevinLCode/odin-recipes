@@ -20,7 +20,9 @@ html{
     color: #c29723
 }
 
-
+ul{
+    padding: 0;
+}
 
 li{
     display: inline-block;
@@ -28,8 +30,7 @@ li{
     height: 150px;
     margin: 20px;
     border-radius: 30px;
-    padding: 7px;
-
+    padding: 8px;
     background-color: #ffd900;
     box-shadow: 0 2px 0 3px #c29723;
 }
