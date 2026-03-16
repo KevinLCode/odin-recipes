@@ -5,8 +5,10 @@
 }
 
 html{
-    background-color:#fffef4;
+    background-color:#fdfbed;
 }
+
+
 
 .title{
     font-size: 46px;
@@ -18,12 +20,17 @@ html{
     color: #c29723
 }
 
+
+
 li{
     display: inline-block;
-    background-color: #ffd900;
+    width: 180px;
+    height: 150px;
     margin: 20px;
     border-radius: 30px;
     padding: 7px;
+
+    background-color: #ffd900;
     box-shadow: 0 2px 0 3px #c29723;
 }
 
@@ -32,7 +39,6 @@ img{
 }
 
 a{
-
     text-decoration: none;
 }
 
