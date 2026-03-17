@@ -6,3 +6,7 @@
 - And, above all, I developed my Git skills, practicing commands I didn't know how to use and making my first commits.
 
 _I'm also practicing my English; I'm a Spanish speaker and my English isn't very good yet (I had to use a translator several times)._
+
+**Second project's version:**
+- I discovered and put into practice a lot of CSS knowledge
+- I really felt like a real web developer and I'm even more eager to continue studying web development.
