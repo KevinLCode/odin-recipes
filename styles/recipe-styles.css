@@ -34,6 +34,7 @@ html{
 
 .recipe-image{
     display: block;
+    max-width: 100%;
     border: solid #530 2px;
     border-radius: 30px;
     margin: auto;
