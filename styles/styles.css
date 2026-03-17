@@ -10,7 +10,7 @@ html{
 
 .title{
     font-size: 46px;
-    color: #dab71d
+    color: #b18b23
 }
 
 .subtitle{
@@ -30,7 +30,7 @@ li{
     border-radius: 30px;
     padding: 8px;
     background-color: #ffd900;
-    box-shadow: 0 2px 0 3px #c29723;
+    box-shadow: 0 2px 0 3px #b18b23;
 }
 
 img{
@@ -45,4 +45,8 @@ a{
     font-weight: bold;
     color: #530;
     display: block;
+}
+
+.credits{
+    font-size: 20px;
 }

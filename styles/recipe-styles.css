@@ -32,14 +32,36 @@ html{
     font-size: 30px;
 }
 
-.recipe-subtitle{
-    margin-top: 15px;
-    font-size: 22px;
-}
-
 .recipe-image{
     display: block;
     border: solid #530 2px;
     border-radius: 30px;
     margin: auto;
+}
+
+.recipe-subtitle{
+    margin-top: 15px;
+    font-size: 22px;
+}
+
+.recipe-description{
+    text-align: center;
+    font-size: 18px;
+}
+
+.home{
+    display: block;
+    margin: auto;
+    width: 100px;
+    border-radius: 30px;
+    padding: 8px;
+    background-color: #ffd900;
+    box-shadow: 0 2px 0 3px #b18b23;
+    text-align: center;
+}
+
+a{
+    color: #432800;
+    text-decoration: none;
+    font-weight: bold;
 }
