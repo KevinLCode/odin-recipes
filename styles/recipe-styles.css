@@ -4,6 +4,42 @@
 
 html{
     background-color:#fff8e7;
+    font-size: 16px;
+    color: #432800;
     font-family: Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.recipe-box,
+.ingredients-box,
+.steps-box{
+    box-shadow: 0 0px 30px 0 #0001;
+    padding: 20px;
+    margin: 15px;
+    border: solid #0001 1px;
+    border-radius: 30px;
+}
+
+.recipe-title,
+.subtitle,
+.recipe-subtitle{
+    text-align: center;
+    font-size: 36px;
+    color: #b18b23;
+    margin-top: 4px;
+}
+
+.subtitle{
+    font-size: 30px;
+}
+
+.recipe-subtitle{
+    margin-top: 15px;
+    font-size: 22px;
+}
+
+.recipe-image{
+    display: block;
+    border: solid #530 2px;
+    border-radius: 30px;
+    margin: auto;
+}
